@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Personal AI tools — never upload
+.agents/
+.ua/
+skills-lock.json
