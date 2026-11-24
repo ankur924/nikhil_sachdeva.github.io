@@ -27,7 +27,7 @@ export const profile = {
   institutionUrl: "https://www.rp.edu.sg/",
   linkedinUrl: "https://www.linkedin.com/in/nikhil-sachdeva-50058816/",
   email: "nicks.sachdeva81@gmail.com" as string | null,
-  portraitUrl: "/images/nikhil-sachdeva-new.jpg" as string | null,
+  portraitUrl: `${import.meta.env.BASE_URL}images/nikhil-sachdeva-new.jpg` as string | null,
   verifiedSummary:
     "Chemistry educator and applied researcher at Republic Polytechnic, working across pharmaceutical science, analytical chemistry, formulation development and student-centred learning.",
   biography:
