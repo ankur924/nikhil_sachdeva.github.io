@@ -57,7 +57,7 @@ function Hero() {
       <div className="hero__content">
         <p className="eyebrow hero__eyebrow">Academic portfolio <span>·</span> {profile.location}</p>
         <p className="hero__role">{profile.role} <span>/</span> {profile.institution}</p>
-        <h1 id="hero-title">Dr. {profile.firstName}<br /><span>{profile.familyName}</span></h1>
+        <h1 id="hero-title">{profile.firstName}<br /><span>{profile.familyName}</span></h1>
         <p className="hero__intro">{profile.verifiedSummary}</p>
         <div className="hero__actions">
           <a className="button button--solid" href="#contact">Get in touch <span aria-hidden="true">↘</span></a>

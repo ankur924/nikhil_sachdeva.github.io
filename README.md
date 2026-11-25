@@ -1,4 +1,4 @@
-# Dr. Nikhil Sachdeva — Academic Portfolio
+# Nikhil Sachdeva — Academic Portfolio
 
 A responsive, single-page academic portfolio built with React, TypeScript, and Vite. Central profile and portfolio content lives in `src/data/portfolio.ts`.
 

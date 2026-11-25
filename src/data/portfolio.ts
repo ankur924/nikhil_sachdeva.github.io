@@ -15,12 +15,12 @@ export interface ProjectEntry {
 }
 
 export const profile = {
-  name: "Dr. Nikhil Sachdeva",
+  name: "Nikhil Sachdeva",
   shortName: "Nikhil Sachdeva",
   firstName: "Nikhil",
   familyName: "Sachdeva",
-  pageTitle: "Dr. Nikhil Sachdeva — Academic Portfolio",
-  metaDescription: "Academic portfolio of Dr. Nikhil Sachdeva, Lecturer at Republic Polytechnic, Singapore.",
+  pageTitle: "Nikhil Sachdeva — Academic Portfolio",
+  metaDescription: "Academic portfolio of Nikhil Sachdeva, Lecturer at Republic Polytechnic, Singapore.",
   role: "Lecturer",
   institution: "Republic Polytechnic",
   location: "Singapore",
@@ -31,7 +31,7 @@ export const profile = {
   verifiedSummary:
     "Chemistry educator and applied researcher at Republic Polytechnic, working across pharmaceutical science, analytical chemistry, formulation development and student-centred learning.",
   biography:
-    "Dr. Nikhil Sachdeva is a chemistry educator, researcher and industry liaison at Republic Polytechnic in Singapore. He brings more than 14 years of teaching and facilitation experience across biomedical, biotechnology and pharmacy disciplines in three countries. His teaching spans pharmaceutical, medicinal, analytical and organic chemistry, pharmacology, toxicology, cancer biology and laboratory management, with an emphasis on problem-based learning and practical application.\n\nHis research and professional practice connect medicinal and analytical chemistry with pharmaceutical formulation, materials characterization and industry needs. With more than 19 years of experience in heterocyclic synthesis and structural characterization, he works with multidimensional NMR, LC–MS and HPLC. His pharmaceutical R&D experience includes solid dosage forms, quality systems, hot-melt extrusion and 3D-printed dosage forms.\n\nAt Republic Polytechnic he works with students and external partners on applied research and educational innovation, including pharmaceutical formulation, analytical stability studies, interactive chemistry learning, 3D-printed molecular models and immersive AR/VR learning content. He has mentored more than 85 students and two PhD students, and has contributed to competitive R&D TIF grants, a Mentorship Support Grant, an Academic Research grant and SPRING voucher and consultancy projects.",
+    "Nikhil Sachdeva is a chemistry educator, researcher and industry liaison at Republic Polytechnic in Singapore. He brings more than 14 years of teaching and facilitation experience across biomedical, biotechnology and pharmacy disciplines in three countries. His teaching spans pharmaceutical, medicinal, analytical and organic chemistry, pharmacology, toxicology, cancer biology and laboratory management, with an emphasis on problem-based learning and practical application.\n\nHis research and professional practice connect medicinal and analytical chemistry with pharmaceutical formulation, materials characterization and industry needs. With more than 19 years of experience in heterocyclic synthesis and structural characterization, he works with multidimensional NMR, LC–MS and HPLC. His pharmaceutical R&D experience includes solid dosage forms, quality systems, hot-melt extrusion and 3D-printed dosage forms.\n\nAt Republic Polytechnic he works with students and external partners on applied research and educational innovation, including pharmaceutical formulation, analytical stability studies, interactive chemistry learning, 3D-printed molecular models and immersive AR/VR learning content. He has mentored more than 85 students and two PhD students, and has contributed to competitive R&D TIF grants, a Mentorship Support Grant, an Academic Research grant and SPRING voucher and consultancy projects.",
 };
 
 export const navItems = [
